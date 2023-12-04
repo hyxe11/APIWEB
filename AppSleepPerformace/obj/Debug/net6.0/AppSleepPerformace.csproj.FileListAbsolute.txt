@@ -1,0 +1,7 @@
+C:\ti18\AppSleepPerformace\obj\Debug\net6.0\AppSleepPerformace.csproj.AssemblyReference.cache
+C:\ti18\AppSleepPerformace\obj\Debug\net6.0\AppSleepPerformace.GeneratedMSBuildEditorConfig.editorconfig
+C:\ti18\AppSleepPerformace\obj\Debug\net6.0\AppSleepPerformace.AssemblyInfoInputs.cache
+C:\ti18\AppSleepPerformace\obj\Debug\net6.0\AppSleepPerformace.AssemblyInfo.cs
+C:\ti18\AppSleepPerformace\obj\Debug\net6.0\AppSleepPerformace.csproj.CoreCompileInputs.cache
+C:\ti18\AppSleepPerformace\obj\Debug\net6.0\AppSleepPerformace.MvcApplicationPartsAssemblyInfo.cs
+C:\ti18\AppSleepPerformace\obj\Debug\net6.0\AppSleepPerformace.MvcApplicationPartsAssemblyInfo.cache
